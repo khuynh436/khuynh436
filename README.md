@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khuynh436
-- 👀 I’m interested in python and Kotlin. I am also interested in machine-learning and AI.
-- 🌱 I’m currently learning python and Kotlin. I am in the process of obtaining my Google Certificate in Android Development
+- 👀 I’m interested in data science. I am also interested in machine-learning and AI.
+- 🌱 I’m currently learning python, numpy, SQL, NOSQL, Tableau
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at khuynh436@gmail.com or github.com/khuynh436.
 
