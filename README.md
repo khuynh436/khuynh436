@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khuynh436
+- 👋 Hi, I’m Khanh Huynh. I am currently based in Seattle, Washington. I am originally from Ho Chi Minh City, Vietnam and immigrated to the United States a little over 15 years ago. 
 - 👀 I’m interested in machine learning and artificial intelligence. I am most passionate about fully autonomous driving and implementing AI into our healthcare systems, specifically in daily operations. 
 - 🌱 I’m currently a student at the University of Washington The Information School, pursuing a Master of Science in Information Management, Data Science track. 
 - 💞️ I’m looking to collaborate on in any future projects and to learn from you all!
